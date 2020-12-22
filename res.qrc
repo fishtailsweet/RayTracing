@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>lenna.png</file>
+        <file>test.png</file>
+        <file>earthmap.jpg</file>
+    </qresource>
+    <qresource prefix="/shaders">
+        <file>fragRotateBiLinear.shader</file>
+        <file>fragRotateBiCubic.shader</file>
+        <file>fragLuminancePic.shader</file>
+        <file>fragEdgeDetector.shader</file>
+        <file>fragGaussianBlur1D.shader</file>
+        <file>fragRadialBlur.shader</file>
+        <file>fragWhirlpool.shader</file>
+        <file>fragRGBSplitGlitch.shader</file>
+        <file>vert.shader</file>
+        <file>vertEdgeDetector.shader</file>
+        <file>vertGaussianBlur1D.shader</file>
+    </qresource>
+    <qresource prefix="/objs">
+        <file>test.obj</file>
+        <file>bench.obj</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
